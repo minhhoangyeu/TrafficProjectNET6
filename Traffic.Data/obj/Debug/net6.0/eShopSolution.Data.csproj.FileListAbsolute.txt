@@ -1,0 +1,14 @@
+D:\StructureBENETCore6\eShopSolution.Data\bin\Debug\net6.0\eShopSolution.Data.deps.json
+D:\StructureBENETCore6\eShopSolution.Data\bin\Debug\net6.0\eShopSolution.Data.runtimeconfig.json
+D:\StructureBENETCore6\eShopSolution.Data\bin\Debug\net6.0\eShopSolution.Data.dll
+D:\StructureBENETCore6\eShopSolution.Data\bin\Debug\net6.0\eShopSolution.Data.pdb
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\eShopSolution.Data.csproj.AssemblyReference.cache
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\eShopSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\eShopSolution.Data.AssemblyInfoInputs.cache
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\eShopSolution.Data.AssemblyInfo.cs
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\eShopSolution.Data.csproj.CoreCompileInputs.cache
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\eShopSolution.Data.dll
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\refint\eShopSolution.Data.dll
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\eShopSolution.Data.pdb
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\eShopSolution.Data.genruntimeconfig.cache
+D:\StructureBENETCore6\eShopSolution.Data\obj\Debug\net6.0\ref\eShopSolution.Data.dll

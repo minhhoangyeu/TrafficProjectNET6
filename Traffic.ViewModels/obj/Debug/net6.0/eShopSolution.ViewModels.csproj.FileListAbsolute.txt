@@ -1,0 +1,12 @@
+D:\StructureBENETCore6\eShopSolution.ViewModels\bin\Debug\net6.0\eShopSolution.ViewModels.deps.json
+D:\StructureBENETCore6\eShopSolution.ViewModels\bin\Debug\net6.0\eShopSolution.ViewModels.dll
+D:\StructureBENETCore6\eShopSolution.ViewModels\bin\Debug\net6.0\eShopSolution.ViewModels.pdb
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\eShopSolution.ViewModels.csproj.AssemblyReference.cache
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\eShopSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\eShopSolution.ViewModels.AssemblyInfoInputs.cache
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\eShopSolution.ViewModels.AssemblyInfo.cs
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\eShopSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\eShopSolution.ViewModels.dll
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\refint\eShopSolution.ViewModels.dll
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\eShopSolution.ViewModels.pdb
+D:\StructureBENETCore6\eShopSolution.ViewModels\obj\Debug\net6.0\ref\eShopSolution.ViewModels.dll

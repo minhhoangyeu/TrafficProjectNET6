@@ -1,0 +1,14 @@
+D:\TrafficProject\Traffic.Data\bin\Debug\net6.0\Traffic.Data.deps.json
+D:\TrafficProject\Traffic.Data\bin\Debug\net6.0\Traffic.Data.runtimeconfig.json
+D:\TrafficProject\Traffic.Data\bin\Debug\net6.0\Traffic.Data.dll
+D:\TrafficProject\Traffic.Data\bin\Debug\net6.0\Traffic.Data.pdb
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\Traffic.Data.csproj.AssemblyReference.cache
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\Traffic.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\Traffic.Data.AssemblyInfoInputs.cache
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\Traffic.Data.AssemblyInfo.cs
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\Traffic.Data.csproj.CoreCompileInputs.cache
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\Traffic.Data.dll
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\refint\Traffic.Data.dll
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\Traffic.Data.pdb
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\Traffic.Data.genruntimeconfig.cache
+D:\TrafficProject\Traffic.Data\obj\Debug\net6.0\ref\Traffic.Data.dll

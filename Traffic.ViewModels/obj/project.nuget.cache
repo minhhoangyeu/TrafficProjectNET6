@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "J0RDaUbh3syxJ5BT7FcjXMUI3BanUdhs4hHDvE8pWmpHpZR9q2TIXaRFfVMC3JpjZ9YvXEyliYVsvQUFQoarGA==",
+  "success": true,
+  "projectFilePath": "D:\\TrafficProject\\Traffic.ViewModels\\Traffic.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.12\\microsoft.aspnetcore.http.features.5.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

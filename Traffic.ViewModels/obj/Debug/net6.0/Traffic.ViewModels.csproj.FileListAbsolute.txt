@@ -1,0 +1,12 @@
+D:\TrafficProject\Traffic.ViewModels\bin\Debug\net6.0\Traffic.ViewModels.deps.json
+D:\TrafficProject\Traffic.ViewModels\bin\Debug\net6.0\Traffic.ViewModels.dll
+D:\TrafficProject\Traffic.ViewModels\bin\Debug\net6.0\Traffic.ViewModels.pdb
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\Traffic.ViewModels.csproj.AssemblyReference.cache
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\Traffic.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\Traffic.ViewModels.AssemblyInfoInputs.cache
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\Traffic.ViewModels.AssemblyInfo.cs
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\Traffic.ViewModels.csproj.CoreCompileInputs.cache
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\Traffic.ViewModels.dll
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\refint\Traffic.ViewModels.dll
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\Traffic.ViewModels.pdb
+D:\TrafficProject\Traffic.ViewModels\obj\Debug\net6.0\ref\Traffic.ViewModels.dll
